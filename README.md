@@ -134,6 +134,8 @@ Aspiring Data Analyst
 
 ## Disclaimer
 
+## Disclaimer
+
 This project is created for educational and portfolio purposes.
 
-The dataset used in this project is intended for data analysis practice and should not be interpreted as official Netflix business data.
+The dataset was sourced from Kaggle and is not presented as official Netflix company data.
